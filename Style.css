@@ -1,0 +1,18 @@
+.div_menu {
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.menu {
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
